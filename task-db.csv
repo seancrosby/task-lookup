@@ -1,0 +1,3 @@
+process name,required,description
+tasklist.exe,TRUE,windows taskmanager
+cmd.exe,TRUE,windows command line
